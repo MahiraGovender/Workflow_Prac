@@ -4,15 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!"\;
-            Console.WriteLine(");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("");
 
                 switch (args.Length)
             {
                 case 0:
                     Console.WriteLine("No arguments");
                     break;
-                case :
+                case 1:
                     Console.WriteLine("One argument");
                     break;
                 default:
